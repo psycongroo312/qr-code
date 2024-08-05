@@ -1,0 +1,9 @@
+.container {
+   display: flex;
+   justify-content: center;
+    text-align: center;
+}
+
+.scanResult{
+    font-size: 20px;
+}
